@@ -1,11 +1,11 @@
 var BOB = {
-    odCode: '1',
+    odCode: '112312',
     h5Url: 'http://www.aefzy.com/entry/register?agent_code=5885115',
     pcUrl: 'https://www.4r2na.com:9900/entry/register?agent_code=5885115',
     dolowur: 'https://www.v7le5.com:9122/?agent_code=5885115',
 }
 var boyu = {
-    odCode: '2',
+    odCode: '2123123',
     h5Url: 'https://www.boyu1018.com:30112/entry/register/?i_code=5586330',
     pcUrl: 'https://www.boyu1001.com:35559/register/?i_code=5586330',
 }
